@@ -30,5 +30,5 @@ TypeScript, WXT (MV3), Svelte, pnpm workspace (engine package with no browser AP
 4. Follow the security rules in architecture section 10.
 
 ## Status
-Architecture PR under review; section 14 decisions await the maintainer's OK.
+Architecture PR under review; section 14 decisions approved (Nov 21, 2026).
 Decided: MIT license; English only in v1 (other languages later).

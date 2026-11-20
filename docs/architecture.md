@@ -82,7 +82,7 @@ Reader mode, read-aloud, focus mode, PDF, optional colour vision and dyslexia mo
 ## 13. Languages
 i18n files from day one; Noto fallbacks via unicode-range for Armenian and Cyrillic if shipped.
 
-## 14. Decisions (recommended Yes to all)
+## 14. Decisions (approved Nov 21, 2026)
 1 local + opt-in sync; 2 file export, no server; 3 Dark Reader via adapter after a spike; 4 linked spacing; 5 zoom for size; 6 brightness and contrast in the engine; 7 two packages; 8 Svelte; 9 line width off; 10 labels as 6.6. Decided: MIT license; English only in v1. Open: browser-only v1.
 
 ## 15. Order of work (small PRs)
