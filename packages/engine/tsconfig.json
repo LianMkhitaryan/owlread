@@ -1,0 +1,9 @@
+{
+  "extends": "../../tsconfig.base.json",
+  // No DOM or browser types: the engine must stay pure TypeScript (architecture 3).
+  "compilerOptions": {
+    "lib": ["ES2022"],
+    "types": []
+  },
+  "include": ["src"]
+}
