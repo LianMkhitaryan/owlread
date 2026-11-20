@@ -1,0 +1,6 @@
+packages:
+  - packages/*
+  - extension
+
+# Only install versions published at least 14 days ago (architecture 10.2).
+minimumReleaseAge: 20160
