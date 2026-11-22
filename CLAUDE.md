@@ -18,7 +18,8 @@ Comfort first, not illness. Personal calibration ("which is clearer?"). Never br
 
 ## v1 features
 Text size (browser zoom), thickness, letter and word spacing (linked), line height, max line width; low-glare themes (no pure black or white), brightness, contrast; remove shadows and animations; reading ruler; calibration wizard and presets; Simple and Advanced modes; per-site settings and a shortcut; a reading-speed and comfort check with file export.
-Later: reader mode and read-aloud (v1.1), focus mode and PDF (v1.2), Safari (v2).
+First release (Beta 0.1): text, glare themes, per-site settings and profiles; the rest follows (architecture 1.1).
+Later: reader mode and read-aloud (v1.1), focus mode and PDF (v1.2), Safari and a desktop app (v2).
 
 ## Stack
 TypeScript, WXT (MV3), Svelte, pnpm workspace (engine package with no browser APIs, plus extension), Vitest, Playwright, GitHub Actions. Colour: Dark Reader's engine (MIT) behind a ColourEngine adapter, after a spike.
@@ -30,5 +31,5 @@ TypeScript, WXT (MV3), Svelte, pnpm workspace (engine package with no browser AP
 4. Follow the security rules in architecture section 10.
 
 ## Status
-Architecture PR under review; section 14 decisions approved (Nov 21, 2026).
+Architecture: section 14 lists what is approved, proposed and open.
 Decided: MIT license; English only in v1 (other languages later).
